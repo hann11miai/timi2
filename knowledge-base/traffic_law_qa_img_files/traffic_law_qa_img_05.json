@@ -1,0 +1,35 @@
+{
+  "title": "Hỏi đáp luật an toàn giao thông với hình ảnh - Phần 5",
+  "questions": [
+    {
+      "question": "Luật giao thông có quy định gì về việc đội mũ bảo hiểm khi đi xe máy? (Câu hỏi số 25)",
+      "answer": "Theo luật, tất cả người điều khiển và ngồi trên xe mô tô, xe gắn máy bắt buộc phải đội mũ bảo hiểm đạt chuẩn để đảm bảo an toàn. Không đội mũ bảo hiểm sẽ bị phạt từ 200.000 đến 300.000 VNĐ. (Chi tiết giải thích thêm cho câu hỏi số 25...)",
+      "image": "https://example.com/images/helmet-law.jpg"
+    },
+    {
+      "question": "Người điều khiển phương tiện giao thông khi vi phạm tốc độ sẽ bị xử lý như thế nào? (Câu hỏi số 26)",
+      "answer": "Phạt tiền từ 800.000 đến 2.000.000 VNĐ tùy theo mức độ vi phạm. Ngoài ra, có thể bị tước giấy phép lái xe từ 1 đến 3 tháng hoặc hơn tùy mức vi phạm. (Chi tiết giải thích thêm cho câu hỏi số 26...)",
+      "image": "https://example.com/images/speeding-fine.jpg"
+    },
+    {
+      "question": "Có những loại xe nào bị cấm lưu thông trên đường quốc lộ? (Câu hỏi số 27)",
+      "answer": "Các loại xe không đảm bảo an toàn kỹ thuật, xe điện không đăng ký, xe tự chế, xe chở hàng quá tải trọng cho phép đều bị cấm lưu thông trên đường quốc lộ. (Chi tiết giải thích thêm cho câu hỏi số 27...)",
+      "image": "https://example.com/images/restricted-vehicles.jpg"
+    },
+    {
+      "question": "Người tham gia giao thông khi bị cảnh sát giao thông dừng xe cần làm gì? (Câu hỏi số 28)",
+      "answer": "Người điều khiển phương tiện phải dừng xe, xuất trình giấy tờ xe, giấy phép lái xe và chấp hành mọi yêu cầu kiểm tra, xử phạt nếu có vi phạm. (Chi tiết giải thích thêm cho câu hỏi số 28...)",
+      "image": "https://example.com/images/traffic-stop.jpg"
+    },
+    {
+      "question": "Phạt nguội trong giao thông đường bộ là gì? (Câu hỏi số 29)",
+      "answer": "Phạt nguội là hình thức xử phạt vi phạm giao thông dựa trên hình ảnh, video ghi lại hành vi vi phạm do camera giám sát mà không cần dừng xe tại chỗ. (Chi tiết giải thích thêm cho câu hỏi số 29...)",
+      "image": "https://example.com/images/fine-camera.jpg"
+    },
+    {
+      "question": "Luật giao thông có quy định gì về việc đội mũ bảo hiểm khi đi xe máy? (Câu hỏi số 30)",
+      "answer": "Theo luật, tất cả người điều khiển và ngồi trên xe mô tô, xe gắn máy bắt buộc phải đội mũ bảo hiểm đạt chuẩn để đảm bảo an toàn. Không đội mũ bảo hiểm sẽ bị phạt từ 200.000 đến 300.000 VNĐ. (Chi tiết giải thích thêm cho câu hỏi số 30...)",
+      "image": "https://example.com/images/helmet-law.jpg"
+    }
+  ]
+}
